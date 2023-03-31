@@ -1,14 +1,21 @@
-1.Verify that admin user is able to create a new Yoga class with all the required details like Title, Description, Class Color, Image, Class Details, 
-Location, Online/Offline, Trainer, Service Type, Free/Paid.
+1.Verify that admin is able to create a new Yoga class with all the required features (Title, Description, Class Color, Image, Class Details, Location, Online/Offline, Trainer, Service Type, Free/Paid, Class Schedule, Booking Window).
 
-2.Verify that end customers are able to view the created Yoga class on the website with all the details like Title, Description, 
-Class Color, Image, Class Details, Location, Online/Offline, Trainer, Service Type, Free/Paid.
+2.Verify that end customers are able to view the Yoga class on the website.
 
-3.Verify that end customers are able to purchase the created Yoga class from the website.
+3.Verify that end customers are able to purchase the Yoga class.
 
-4.Verify that admin user is able to add Class Schedule for the created Yoga class with all the details like Day of week, Start Date & Time, End Date & Time.
+4.Verify that admin is able to edit the Yoga class details (Title, Description, Class Color, Image, Class Details, Location, Online/Offline, Trainer, Service Type, Free/Paid, Class Schedule, Booking Window).
 
-5.Verify that admin user is able to add Booking Window for the created Yoga class with all the details like booking window opens 
-before no. of days and booking window closed before.
+5.Verify that admin is able to delete the Yoga class.
 
-6.Verify that end customers are able to book the created Yoga class only during the specified booking window.
+6.Verify that admin is able to add a new schedule for the Yoga class (Day of week, Start Date & Time, End Date & Time).
+
+7.Verify that admin is able to edit the existing schedule for the Yoga class.
+
+8.Verify that admin is able to delete the schedule for the Yoga class.
+
+9.Verify that admin is able to add booking window restrictions (booking window opens before no. of days, booking window closed before).
+
+10.Verify that admin is able to edit the booking window restrictions.
+
+11.Verify that admin is able to delete the booking window restrictions.
