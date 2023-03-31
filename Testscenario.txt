@@ -1,0 +1,14 @@
+1.Verify that admin user is able to create a new Yoga class with all the required details like Title, Description, Class Color, Image, Class Details, 
+Location, Online/Offline, Trainer, Service Type, Free/Paid.
+
+2.Verify that end customers are able to view the created Yoga class on the website with all the details like Title, Description, 
+Class Color, Image, Class Details, Location, Online/Offline, Trainer, Service Type, Free/Paid.
+
+3.Verify that end customers are able to purchase the created Yoga class from the website.
+
+4.Verify that admin user is able to add Class Schedule for the created Yoga class with all the details like Day of week, Start Date & Time, End Date & Time.
+
+5.Verify that admin user is able to add Booking Window for the created Yoga class with all the details like booking window opens 
+before no. of days and booking window closed before.
+
+6.Verify that end customers are able to book the created Yoga class only during the specified booking window.
